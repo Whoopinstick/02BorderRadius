@@ -2,3 +2,5 @@
 02 - Border Radius
 
 Written in SwiftUI
+
+![Border](./Border.gif)
